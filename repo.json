@@ -1,0 +1,41 @@
+{
+  "name": "kyogre repo",
+  "identifier": "com.kyogre.workshop",
+  "website": "https://kyogre.xyz",
+  "iconURL": "https://raw.githubusercontent.com/zxxvyv/repository/refs/heads/main/kyogre.jpg",
+  "apps": [
+    {
+      "name": "Soundcloud ++",
+      "bundleIdentifier": "com.sc.soundcloud",
+      "developerName": "ion know",
+      "subtitle": "Soundcloud with additional tweaks",
+      "localizedDescription": "Soundcloud with ads removed",
+      "iconURL": "https://img.icons8.com/?size=80&id=usyXfva6nCgN&format=png",
+      "tintColor": "#E36678",
+      "versions": [
+        {
+          "version": "8.22.2",
+          "minOSVersion": "16.0",
+          "date": "2025-11-05T06:30:00+03:00",
+          "size": 19600000,
+          "downloadURL": "https://release-assets.githubusercontent.com/github-production-release-asset/1032805201/456e5dd6-6554-437e-b923-20f9753a4718?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-01-21T11%3A11%3A59Z&rscd=attachment%3B+filename%3DSoundCloud_8.22.2_1754060114.ipa&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-01-21T10%3A11%3A13Z&ske=2026-01-21T11%3A11%3A59Z&sks=b&skv=2018-11-09&sig=nqnRTxZDuisvZPXEY36P8F%2FlRhTEdnozP%2Bu5NxUUDt0%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc2ODk5NDMwMywibmJmIjoxNzY4OTkwNzAzLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.Q24Bi88wixuxDxCKDx0xfvQwSf4uPnqYxYD0XHo8vqc&response-content-disposition=attachment%3B%20filename%3DSoundCloud_8.22.2_1754060114.ipa&response-content-type=application%2Foctet-stream",
+          "localizedDescription": "Soundcloud ++"
+        }
+      ],
+      "version": "8.22.2",
+      "size": 19600000
+    }
+  ],
+  "news": [
+    {
+      "title": "All my apps in one place",
+      "identifier": "zxxvyv",
+      "caption": "Welcome to the official Feather repository of kyogres Workshop!\n\nHere, you can explore and download all of my free tweaked apps.",
+      "tintColor": "E36678",
+      "imageURL": "https://raw.githubusercontent.com/zxxvyv/repository/refs/heads/main/kyogre.jpg",
+      "url": "https://kyogre.xyz",
+      "date": "2025-02-03",
+      "notify": true
+    }
+  ]
+}
